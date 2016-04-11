@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Area &amp; Circumference Of a Circle</string>
+    <string name="area">Area</string>
+    <string name="output">Output</string>
+    <string name="circumference">Circumference</string>
+    <string name="enter_radius">Enter Radius</string>
+    <string name="circumferenceOfCircle">Circumference of Circle is </string>
+    <string name="areaOfC">Area of Circle is </string>
+</resources>
